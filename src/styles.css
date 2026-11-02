@@ -191,7 +191,7 @@ h1 em, h2 em { font-family: Georgia, serif; font-weight: 400; }
 .site-footer > a:last-child { display: flex; align-items: center; gap: 4px; }
 
 @media (min-width: 1321px) {
-  .work-section, .experience-section, .values-section, .contact-section { padding-left: max(76px, calc((100vw - 1168px) / 2)); padding-right: max(76px, calc((100vw - 1168px) / 2)); }
+  .work-section, .experience-section, .values-section, .contact-section { max-width: none; padding-left: max(76px, calc((100vw - 1168px) / 2)); padding-right: max(76px, calc((100vw - 1168px) / 2)); }
 }
 @media (max-width: 900px) {
   .section-wrap { padding-left: 38px; padding-right: 38px; }
