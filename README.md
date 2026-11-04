@@ -1,6 +1,6 @@
 # personal portfolio
 
-A responsive React and TypeScript personal portfolio, based on the supplied design references. It includes independently rotatable value cards and a FastAPI backend health check.
+A responsive React and TypeScript personal portfolio. It includes independently rotatable value cards and a FastAPI backend health check.
 
 ## Run locally
 
